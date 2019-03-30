@@ -17,55 +17,49 @@
 	<div id="wrapper">
 		<!-- Head -->
 			<header id="myHeader">  
-			  <h1>Welcome to my Profile</h1>
-			  <p>This is one of the most basic webpages, barebones HTML5!</p>
-			  <p>There are quite a number of things that you could try doing...</p>
+			  <h1>Assignment 1</h1>
+			  <p>Introduction to Information Technology </p>
+                          <p>My Profile</p>
 			</header>
-			  
-			  <ul>
-				<li>Change the title for one...</li>
-				<li>Add some elements and images!</li>
-			  </ul>
+
 
 		<!-- Main -->
 		<div id="main">
 		<!-- Image -->
-			<img src="img/myface.jpg">
+			<img src="Me.jpg">
 		<!-- Intro Section-->
 			<section id="intro">
 			<header class="sectionHeading">
-				<h2>Introduction</h2>
+				<h2>Personal Information</h2>
 			</header>
-			<p>This is just a very simple page for you to use as a bit of a template.</p>
 			
-			
-			<p>So for my short intro.... An IT based educator always looking to learn more.</p>
-			<p>What's your profile going to say about you?</p>
-			</section>
+			<p>Name: Edmond Lam</p>
+                        <p>Student Number: S3690442</p>
+			<p>I am an Australian born male with a chinese background. Coming from a family where Australian and Chinese traditions and customs are intertwined, it is safe to say that I get the best of both worlds. Being able to enjoy authentic Chinese food regularly while being able to go out and experience Australia and what it has to offer is something I appreciate constantly.</p>
+                        <p>Things like being able to enjoy Chinese new year at full force, as well as being able to go to the bar on grand final day is something I cherish.</p>			
+                        <p>Fun fact about me is I am extremely competetive, whether it is sports or video games I will always try my hardest to win. I have a huge appreciation for being active and playing sports while also being able to enjoy video games in my free time.</p>
+</section>
 			
 		<!-- Background Section -->
 			<section id="background">
 			<header class="sectionHeading">
-				<h2>My Background</h2>
+				<h2>Interest in IT </h2>
 			</header>
 			
 				<section>
-					<h3>Information Technology</h3>
-					<p>My formal education has been through RMIT in the IT field. Having moved around particular areas of IT in the workforce ranging from - Web Design and Development, IT Solutions, Search Engine Optimisation, etc.</p>
-					<p>First IT job started when I was in my late teens, and have been in IT ever since still bouncing around different areas.</p>
+					<h3>What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any). </h3>
+<p>My interest in IT started at a young age. As a kid I was always playing video games with my brother and dad, and of course I was super competetive with them and always wanted to win. This caused my interest in how video games are made and the process behind making them. So when I was choosing which course to study in, of course, I was going to pick IT</p>
 				</section>
 				<section>
-					<h3>Education</h3>
-					<p>I've taught at different levels of education.</br>
-					Younger primary school students in after school coding programs through Invent the World.</br>
-					University level education ranging from 1st year to Post Grad students through RMIT on campus and online via Open University Australia</p>
+					<h3>Why did you choose to come to RMIT? </h3>
+					<p>The reason I decided to come to RMIT is the great culture and people in the study environment. I have found many of the Tutors and students within RMIT have a certain amount of 'comradery' and more often than not, everyone is willing to help and is friendly and helpful towards improving each other.. 
+</p>
 				</section>
 				
 				
 				<section>
-					<h3>Philosophy</h3>
-					<p>While there I don't have formal education in philosophy it is very much an interest of mine.</p>
-					<p>Always interested in reading and learning more! I can not recommend having another interest enough outside of Information Technology. Such development and passion in other areas can only benefit you more.</p>
+					<h3>What do you expect to learn during your studies?</h3>
+					<p>I expect to learn a lot about programming and coding. I can really appreciate being able to code and build applications and websites from nothing, it might not be a popular opinion, however I do see programmers and webpage designers as part time artists. I'm already learning a lot which is awesome, these are tools I will use going forward and will definitely use with my career in the future. Eventually, I want the skills to be able to design apps.</p>
 				</section>
 			</section>  
 		<!-- Ideal Job Section -->
@@ -73,17 +67,110 @@
 			<header class="sectionHeading">
 				<h2>Ideal Job</h2>
 			</header>			  
-			<p>Really anything that continues to push me further...</p>
-			<p>... But to answer the question I would be looking at a Business Analyst role or Security Consultant in the future.
-			I'm very much interested in the security field and business management, so I'd hope to move into one of those areas and continue learning of the many different facets of IT.
-			While interested in transitioning into one of those fields, I would hope to have time available to allow for me to stay within the education sector.</p>
+			<p>Ideal Job Link - https://www.glassdoor.com.au/Job/irvine-senior-game-designer-jobs-SRCH_IL.0,6_IC1146798_KO7,27.htm?rdserp=true&jl=3127816158&jaguid=&src=GD_JOB_AD&srs=EI_JOBS&s=21&ao=331675</p>
+<img src="Ideal_Job.PNG">
+<h3>A description (in your own words) of the position, and particularly what makes this position appealing to you. </h3>
+			
+<p>This is a job to work as a game developer at Blizzard to work under a game called World of Warcraft, and it's a position to work with a team of people to keep the game up to date and make ongoing changes to keep it interesting. The reason why this position is attractive to me is I am a fan of World of Warcraft and like playing the game, not only that but  I'm a huge fan of blizzard. It would be a dream come true to work at a company I've been following for over a decade and to work on a game I love. </p>
 			</section>
+
+                         <section>
+			<h3>A description (in your own words) of the skills, qualifications and experience required for the position. </h3>
+					<p>The skills required for this position is having experience in designing games at a minimum of 5 years, which includes having experience in senior or lead design roles. A 'shipped product' or AAA game means a game with a high budget and lots of promotion surrounding the game. As with every job they require written and verbal skills to be at an above average level, able to be flexible and work with little support or material. As well as being able to be creative in hard or demanding situations. They also included that they would prefer someone that has experience in the shooter game genre, online game genre, and experience in programming.</p>
+				</section>
+
+                                 <section>
+					<h3>A description (in your own words) of the skills, qualifications and experience you currently have. </h3>
+					<p>Currently, I don't have many of the required skills or qualifications required. What I can say though, is that I do have decent written and verbal skills and can be creative in situations where you wouldn't expect creativity. I do have knowledge of the MMORPG genre and what people look for and want from an MMORPG game and of course a passion for blizzard and their games. </p>
+				</section>
+
+<section>
+					<h3> A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly 
+detailed, (and will probably change significantly over time anyway), but try to be as 
+specific as you can.</h3>
+					<p>My Plan to obtain these skills is first and foremost finishing my university degree. Along the way during my degree, I will have to be proactive in looking for projects and things to work on to improve my skills. Especially looking into game design and what may be trying to design things in my own time. </p>
+				</section>
 		
 		</div>
 	
+		<!--  Personal Profile  Section -->
+			<section id="profile">
+			<header class=" Personal Profile">
+				<h2>Ideal Job</h2>
+			</header>
+<p>Myer Briggs Test - https://www.16personalities.com/free-personality-test</>
+<img src="Myer Briggs.PNG">
+
+</section>
+
+<section>
+<p>Learning Style</p> 
+<img src="Learning Style.PNG">
+</section>
+
+<section>
+<Creativity Test - http://www.testmycreativity.com/ </p>
+<img src="Creativity Test.PNG">
+</section>
+
+<section>
+<h3>What do the results of these tests mean for you? </h3>
+<p>After completing the tests, I've learned a bit about myself. I'm a bit more extroverted than I thought I was. However I prefer to work independently not because I don't like others, but rather because of freedom with creativity and stability. In the past, I've always thought of myself as a practical learner that likes putting ideas into practice to learn, what the test has told me is that I'm more of a visual learner who likes to see pictures in front of me. This is something I will carry into the future when I'm looking to learn and take in information. </p>
+</section>
+
+<section>
+<h3>How do you think these results may influence your behaviour in a team? </h3>
+<p>In a team I can bring discussion, I can get excited by new ideas and facilitate conversation decently well. I'm always looking for new ideas or new ways to think about different things. </p>
+</section>
+
+<section>
+<h3>How should you take this into account when forming a team? </h3>
+<p>If I were to build a team I would like people that are flexible and are open to opinions of others, a quality of not being caught up in being wrong and wanting to grow.</p>
+</section> 
+
+<!--  Project ideas   Section -->
+			<section id="Project">
+			<header class=" Project ideas ">
+				<h2>Project ideas </h2>
+			</header>
+</section>
+
+<section>
+<h3>Overview</h3>
+<p>The project idea I've come up with is a using minecraft to create a game in an already existing gaming platform. What I mean by this is, in the past many people have created different modifications to minecraft to create massive adventure games, multiplayer games, and so on. What my project will be is to create this type of game, however something people would like to play even more so than the ones already created, and maybe use this to pitch or develop this game into a game outside of minecraft.</p>
+</section>
+
+<section>
+<h3>Motivation </h3>
+<p>The project idea I've come up with is a using Minecraft to create a game in an already existing gaming platform. What I mean by this is, in the past, many people have created different modifications to Minecraft to create massive adventure games, multiplayer games, and so on. What my project will be is to create this type of game, however, something people would like to play even more so than the ones already created, and maybe use this to pitch or develop this game into a game outside of Minecraft. </p>
+</section>
+
+<section>
+<h3>Description</h3>
+<p>The game I will be making will eventually be used along the lines of the United Nations Block by Block project. What I mean by that is, it will be used as a framework and what I will show people when I'm asked what games I've designed and what ideas I've had in the past. The game will act as part of a portfolio. 
+What my game will be is a map where people can load in and play it straight away. Since my ideal job is for Blizzard's game Overwatch, the game will be a First Person Shooter and will be a 5 versus 5 game mode. My idea for a game mode is there will be several different 'classes' where each 'class' will have different abilities or weapons, and you can select which one you would like to be, I'll go into a bit more detail about the classes later in the description. The game mode I have in mind also combines some aspects of Minecraft, where you can use materials to build and walk around. What I want is for players to load into a preset map, with their weapons and a pickaxe, players should be able to dig or place blocks while having a 5 versus 5 deathmatch. As for the classes, they should be generic to start with, for example, ranged, melee, tanks, etc.   
+Players will start on 2 opposite sides of an intricate map, starting as a class picked. Minecraft has weapons and armor to help with balancing and to keep each class as enticing as the next. As mentioned earlier players will be able to use blocks mined to effect the terrain, for example, going under opponents 
+or building a bridge over. 
+Eventually, I could add different classes and do ongoing changes to the game similar to what I've stated was my dream job, adding ongoing changes and updating the game will keep it interesting to players. I will also get good experience in receiving feedback and data and changing the game accordingly.</p>
+</section>
+
+<section>
+<h3>Tools and Technologies</h3>
+<p>For my game, I will be using Minecraft heavily, however, to create my map and game I will also use MC Edit. This is a tool Minecraft map makers use to make maps and games. It will also be appropriate to create storyboards and sketches of game characters and maps either by hand or using some sort of tool.</p>
+</section>
+
+<section>
+<h3>Skills Required </h3>
+<p>The skills required are mostly experience in using MC Edit and familiarity with FPS games and Minecraft. Map making with creativity and being able to foresee potential errors will also be highly valued, the only hardware required is a computer that can run minecraft and potentially a sketchpad for maps and notes. </p>
+</section>
+
+<section>
+<h3>Outcome</h3>
+<p>If the project is successful I'll be able to have an idea and a direction for a game I'd want to develop and create. Right now I've only got a rough idea of what the game will potentially be, however, if I create it and see the process will be able to make changes and see my game come to life. My original problem is that I don't have much experience in the IT field and game development area, with my creation I'll be able to have something to work off and get opinions and help with development to eventually being an actual game outside of the Minecraft engine. The impact will be experienced in developing games and knowing how to solve problems and find out what people find fun and what people want from a game</p>
+</section>
+
 	<!-- Footer -->
 		<footer>
-		  <p>And that's it... could put ownership details down here in the footer. Maybe contact details. etc..<p>
 		  <a href="../index.html">Back Home?</a>
 		</footer>  
 	</div>
